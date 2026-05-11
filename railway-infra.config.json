@@ -1,19 +1,19 @@
 {
-  "app": "myapp",
-  "service": {
-    "name": "myapp",
-    "docker": {
-      "build": "./Dockerfile"
-    },
-    "databases": {
-      "va": {
-        "engine": "postgres"
+  "$schema": "https://encore.dev/schemas/infra.schema.json",
+  "sql_servers": [
+    {
+      "host": "viaduct.proxy.rlwy.net:19967",
+
+      "tls_config": {
+        "disable_ca_validation": true
+      },
+      "databases": {
+        "va": {
+          "name": "railway",
+          "username": "postgres",
+          "password": { "$env": "DB_PASSWORD" }
+        }
       }
     }
-  },
-  "environment": {
-    "production": {
-      "region": "us-east"
-    }
-  }
+  ]
 }

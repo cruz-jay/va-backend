@@ -16,14 +16,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Log in to the Container registry
-        uses: docker/login-action@v3.3.0
+        uses: docker/login-action@v2
         with:
           registry: ghcr.io
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Download Encore CLI script
-        uses: sozo-design/curl@v1.0.2
+        uses: sozo-design/curl-action@v1
         with:
           args: --output install.sh -L https://encore.dev/install.sh
 
@@ -38,3 +38,4 @@ jobs:
 
       - name: Push Docker image
         run: docker push ghcr.io/${{ github.repository }}:latest
+
