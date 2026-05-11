@@ -11,7 +11,7 @@
         "va": {
           "name": "railway",
           "username": "postgres",
-          "password": { "$env": "DB_PASSWORD" }
+          "password": { "$env": "PGPASSWORD" }
         }
       }
     }
