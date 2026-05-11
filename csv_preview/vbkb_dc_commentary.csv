@@ -1,0 +1,309 @@
+id,article_id,diagnostic_code_id,dc_code_raw,section_heading,content_markdown,source_url
+1,2,236,6600 Chronic Bronchitis,6600 Chronic Bronchitis,"Swelling of the bronchi in the lungs.
+
+**PRESUMPTIVE CONDITION:**
+
+- If exposed to [Burn pits](https://veteransbenefitskb.com/burnpits); or
+
+- If exposed to [Lewisite/Mustard gas](https://www.veteransbenefitskb.com/mustardgas).
+
+
+Rated under the [General Rating Schedule](https://veteransbenefitskb.com/airsystem#general).
+
+* * *",https://veteransbenefitskb.com/airsystem#6600
+2,2,237,6601 Bronchiectasis,6601 Bronchiectasis,"When part of the bronchial tree becomes enlarged, obstructing airflow.
+
+**PRESUMPTIVE CONDITION:**
+
+- If diagnosed within a [Year](https://veteransbenefitskb.com/time) of separation **AND** the severity warranted at least a 10% evaluation within that time; or
+
+- If exposed to [Burn pits](https://veteransbenefitskb.com/burnpits).
+
+
+Rated under the [General Rating Schedule](https://veteransbenefitskb.com/airsystem#general) _or_ on incapacitating episodes; Whichever gives the Veteran the highest rating.
+
+* * *
+
+#### Incapacitating Episodes
+
+**IMPORTANT NOTE:**
+
+- Incapacitating episode is defined as: requiring bed rest and treatment by a physician.
+
+
+| Rating | Description |
+| --- | --- |
+| 10% | Intermittent productive cough with occasional infection requiring a course of antibiotics at least twice a year. |
+| 30% | Episodes last 2-4 weeks, (combined) during a year, **OR**; daily coughing up mucus that contains pus or blood and that requires prolonged (lasting 4-6 weeks) antibiotic usage more than twice a year. |
+| 60% | Episodes last 4-6 weeks, (combined) during a year, **OR**; near constant coughing up mucus containing pus or blood, with anorexia, weight loss, and requiring antibiotic usage almost continuously. |
+| 100% | Episodes last at least 6 weeks, (combined) during a year. |
+
+* * *",https://veteransbenefitskb.com/airsystem#6601
+3,2,238,6602 Asthma,6602 Asthma,"Swollen airways and bronchi.
+
+Note:
+
+- In the absence of clinical findings of asthma at time of examination, a verified history of asthmatic attacks must be of record.
+
+
+The Veteran will receive a singular rating, based upon the below tables - whichever is highest.
+
+**PRESUMPTIVE CONDITION:**
+
+- If exposed to [Burn pits](https://veteransbenefitskb.com/burnpits); or
+
+- If exposed to [Lewisite/Mustard gas](https://www.veteransbenefitskb.com/mustardgas).
+
+
+* * *
+
+#### FEV-1
+
+| Rating | Description |
+| --- | --- |
+| 10% | 71-80%. |
+| 30% | 56-70%. |
+| 60% | 40-55%. |
+| 100% | Less than 40%. |
+
+* * *
+
+#### FEV-1/FVC
+
+| Rating | Description |
+| --- | --- |
+| 10% | 71-80%. |
+| 30% | 56-70%. |
+| 60% | 40-55%. |
+| 100% | Less than 40%. |
+
+* * *
+
+#### ER Visits
+
+| Rating | Description |
+| --- | --- |
+| 60% | At least once monthly ER visits. |
+| 100% | 2 or more episodes a week resulting in respiratory failure that require ER visits. |
+
+* * *
+
+#### Medications
+
+| Rating | Description |
+| --- | --- |
+| 10% | Requires occasional use of a bronchodilator taken by mouth or inhaled. |
+| 30% | Requires _daily_ use of a bronchodilator taken by mouth or inhaled **OR**; Requires occasional use of inhaled anti-inflammatory medication. |
+| 60% | Requires use of steroids or immunosuppressive medications taken by mouth or injection 3 or more times a year. |
+| 100% | Requires _daily_ **HIGH** doses of steroids _or_ immunosuppressive medications taken by mouth or injection. |
+
+#### Examples of Medications
+
+Bronchodilators:
+
+- AccuNeb
+
+- Albuterol
+
+- Alupent
+
+- Bambuterol
+
+- Bitolterol mesylate
+
+- Bricanyl
+
+- Clenbuterol
+
+- Fenoterol
+
+- Foradil
+
+- Formoterol
+
+- Indacaterol
+
+- Levalbuteral
+
+- Levosalbutamol
+
+- Maxair
+
+- Metaproterenol
+
+- Pirbuteral
+
+- Procaterol
+
+- Proventil
+
+- Ritodrine
+
+- Salbutamol
+
+- Salmeterol
+
+- Sereveut
+
+- Symbicort
+
+- Terbutaline
+
+- Ventolin
+
+- Xopenex
+
+
+Immunosuppressive Medications:
+
+- Decadron
+
+- Deltasone
+
+- Dexamethasone
+
+- Medrol
+
+- Orasone
+
+- Pediapred
+
+- Prednisone
+
+- Prednisolone
+
+- Prelone
+
+
+Inhaled Anti-inflammatory Medications:
+
+- Advair (Fluticasone and Salmeterol)
+
+- Aerobid (Flunisolide)
+
+- Asmanex
+
+- Azmacort (triamcinolone)
+
+- Dulera
+
+- Flovent HFA (Flutocasone HFA)
+
+- Ipratropium Bromide (Atrovent)
+
+- Pulmicort
+
+- Qvar
+
+- Symbicort
+
+
+* * *",https://veteransbenefitskb.com/airsystem#6602
+4,2,239,6603 Pulmonary Emphysema,6603 Pulmonary Emphysema,"Disease that causes the tissues that maintain the shape of the lungs to die.
+
+**PRESUMPTIVE CONDITION:**
+
+- If exposed to [Burn pits](https://veteransbenefitskb.com/burnpits); or
+
+- If exposed to [Lewisite/Mustard gas](https://www.veteransbenefitskb.com/mustardgas).
+
+
+Rated under the [General Rating Schedule](https://veteransbenefitskb.com/airsystem#general).
+
+* * *
+
+### 6604 Chronic Obstructive Pulmonary Disease (COPD)
+
+Disease that results in difficulty breathing via blocked airways.
+
+**PRESUMPTIVE CONDITION:**
+
+- If exposed to [Burn pits](https://veteransbenefitskb.com/burnpits); or
+
+- If exposed to [Lewisite/Mustard gas](https://www.veteransbenefitskb.com/mustardgas).
+
+
+Rated under the [General Rating Schedule](https://veteransbenefitskb.com/airsystem#general).
+
+
+## **Restrictive Lung Diseases**
+
+Diseases that limit how much the lungs can expand.
+
+* * *
+
+### 6840 Diaphragm Paralysis (Diaphragm Paresis)
+
+- Rated under the [General Rating Schedule](https://veteransbenefitskb.com/airsystem#general).
+
+
+* * *
+
+### 6841 Injury of the Spinal Cord (Spinal Cord Injury with Respiratory Insufficiency)
+
+- Rated under the [General Rating Schedule](https://veteransbenefitskb.com/airsystem#general).
+
+
+* * *",https://veteransbenefitskb.com/airsystem#6603
+5,2,269,"6842 Kyphoscoliosis, Pectus Excavatum, Pectus Carinatum","6842 Kyphoscoliosis, Pectus Excavatum, Pectus Carinatum","- Kyphoscoliosis - abnormal curving of the spine both side-to-side & back-to-front.
+
+- Pectus excavatum - ribs and sternum grow _inward_, causing a caved-in chest.
+
+- Pectus carinatum - ribs and sternum grow _outward_ in the middle of the chest.
+
+
+These conditions limit the space in which the lungs can expand.
+
+- Rated under the [General Rating Schedule](https://veteransbenefitskb.com/airsystem#general).
+
+
+* * *
+
+### 6843 Collapsed Lung (Pneumothorax), Gunshot Wound to the Lungs (Traumatic Chest Wall Defect), Hernia, etc.
+
+Conditions or defects of the chest wall that keep the lungs from inflating properly.
+
+- Hernia - when the lung pushes through the chest wall.
+
+- Collapsed lung (Pneumothorax)
+
+
+**PYRAMIDING NOTES:**
+
+- If the muscles in [Group XXI](https://veteransbenefitskb.com/tnmuscles#5321) are affected (they control breathing). The Veteran will receive a respiratory rating **OR** a muscular rating - whichever is higher.
+
+- If other muscle groups are affected the Veteran can receive ratings for **BOTH**.
+
+
+| Rating | Description |
+| --- | --- |
+| ?% | [General Rating Schedule.](https://veteransbenefitskb.com/airsystem#general) |
+| 20% | Gunshot wound to the lung (minimum evaluation): If the bullet remains lodged in the lung; **OR** there is a crackly/wheezing sound in the lung; **OR** lower chest or the diaphragm **CANNOT** fully expand. |
+| 100% | For 3 months after release from hospital. |
+
+* * *
+
+### 6844 Removal of a Lung (Lobectomy, Pneumonectomy, etc.)
+
+- Rated under the [General Rating Schedule](https://veteransbenefitskb.com/airsystem#general).
+
+
+* * *",https://veteransbenefitskb.com/airsystem#6842
+6,2,272,"6845 Chronic Pleural Effusion, Fibrosis, or Pleurisy with Empyema","6845 Chronic Pleural Effusion, Fibrosis, or Pleurisy with Empyema","- Effusion - excess fluid build up between the lung and the chest wall.
+
+- Fibrosis - excess connective tissues build up between the lung and the chest wall.
+
+- Pleurisy with empyema - pus builds up between the lung and the chest wall.
+
+
+**PRESUMPTIVE CONDITION:**
+
+- If exposed to [Burn pits](https://veteransbenefitskb.com/burnpits).
+
+
+| Rating | Description |
+| --- | --- |
+| ?% | [General Rating Schedule.](https://veteransbenefitskb.com/airsystem#general) |
+| 100% | While active. |
+
+* * *",https://veteransbenefitskb.com/airsystem#6845

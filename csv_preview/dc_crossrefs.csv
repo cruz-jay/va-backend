@@ -1,0 +1,7 @@
+id,from_code_id,to_code_id,ref_type,notes
+1,3,4,see_also,"Note (1): Examples of conditions rated using this diagnostic code include, but are not limited to, r"
+2,3,4,rate_as,"Note (1): Examples of conditions rated using this diagnostic code include, but are not limited to, r"
+3,4,13,see_also,"Note (1): The 20 pct and 10 pct ratings based on X-ray findings, above, will not be combined with ra"
+4,10,5,see_also,"Note (1): Other specified forms of arthropathy include, but are not limited to, Charcot neuropathic,"
+5,10,3,see_also,"Note (1): Other specified forms of arthropathy include, but are not limited to, Charcot neuropathic,"
+6,10,4,see_also,"Note (1): Other specified forms of arthropathy include, but are not limited to, Charcot neuropathic,"

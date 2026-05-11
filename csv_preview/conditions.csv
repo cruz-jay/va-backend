@@ -1,0 +1,7 @@
+id,name,diagnostic_code_id,vbkb_url,vbkb_slug,vbkb_anchor
+1,Abdominal Pain,328,https://veteransbenefitskb.com/digsystem#7319,digsystem,7319
+2,Abnormal Kyphosis,,https://veteransbenefitskb.com/spine,spine,
+3,Abnormal Spinal Contour,,https://veteransbenefitskb.com/spine,spine,
+4,Abnormal Weight Loss,202,https://veteransbenefitskb.com/nutritional#6313,nutritional,6313
+5,Abscess of the Brain,486,https://veteransbenefitskb.com/cns#8020,cns,8020
+6,Abscess of the Kidney,357,https://veteransbenefitskb.com/gensystem#7501,gensystem,7501

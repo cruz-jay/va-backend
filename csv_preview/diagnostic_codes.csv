@@ -1,0 +1,15 @@
+id,code,name,cfr_section_id,body_system_id,general_notes,source_url
+1,5000,"Osteomyelitis, acute, subacute, or chronic",26,1,"Note (1): A rating of 10 percent, as an exception to the amputation rule, is to be assigned in any case of active osteomyelitis where the amputation rating for the affected part is no percent. This 10 percent rating and the other partial ratings of 30 percent or less are to be combined with ratings for ankylosis, limited motion, nonunion or malunion, shortening, etc., subject, of course, to the amputation rule. The 60 percent rating, as it is based on constitutional symptoms, is not subject to the amputation rule. A rating for osteomyelitis will not be applied following cure by removal or radical resection of the affected bone.
+
+Note (2): The 20 percent rating on the basis of activity within the past 5 years is not assignable following the initial infection of active osteomyelitis with no subsequent reactivation. The prerequisite for this historical rating is an established recurrent osteomyelitis. To qualify for the 10 percent rating, 2 or more episodes following the initial infection are required. This 20 percent rating or the 10 percent rating, when applicable, will be assigned once only to cover disability at all sites of previously active infection with a future ending date in the case of the 20 percent rating.",
+2,5001,"Bones and joints, tuberculosis of, active or inactive",26,1,,
+3,5002,"Multi-joint arthritis (except post-traumatic and gout), 2 or more joints, as an active process",26,1,"Note (1): Examples of conditions rated using this diagnostic code include, but are not limited to, rheumatoid arthritis, psoriatic arthritis, and spondyloarthropathies.
+
+Note (2): For chronic residuals, rate under diagnostic code 5003.
+
+Note (3): The ratings for the active process will not be combined with the residual ratings for limitation of motion, ankylosis, or diagnostic code 5003. Instead, assign the higher evaluation.",
+4,5003,"Degenerative arthritis, other than post-traumatic",26,1,"Note (1): The 20 pct and 10 pct ratings based on X-ray findings, above, will not be combined with ratings based on limitation of motion.
+
+Note (2): The 20 pct and 10 pct ratings based on X-ray findings, above, will not be utilized in rating conditions listed under diagnostic codes 5013 to 5024, inclusive.",
+5,5004,"Arthritis, gonorrheal.",26,1,,
+6,5005,"Arthritis, pneumococcic.",26,1,,

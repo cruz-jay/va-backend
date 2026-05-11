@@ -1,0 +1,7 @@
+id,diagnostic_code_id,rating_pct,criteria_text
+1,1,100,"Of the pelvis, vertebrae, or extending into major joints, or with multiple localization or with long history of intractability and debility, anemia, amyloid liver changes, or other continuous constitutional symptoms"
+2,1,60,"Frequent episodes, with constitutional symptoms"
+3,1,30,"With definite involucrum or sequestrum, with or without discharging sinus"
+4,1,20,With discharging sinus or other evidence of active infection within the past 5 years
+5,1,10,"Inactive, following repeated episodes, without evidence of active infection in past 5 years"
+6,2,100,Active
