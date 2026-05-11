@@ -2,7 +2,7 @@ name: Build, Push and Deploy a Docker Image to Railway
 
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 permissions:
   contents: read
