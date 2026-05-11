@@ -4,6 +4,11 @@
     "name": "myapp",
     "docker": {
       "build": "./Dockerfile"
+    },
+    "databases": {
+      "va": {
+        "engine": "postgres"
+      }
     }
   },
   "environment": {
