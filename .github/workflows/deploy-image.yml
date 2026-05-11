@@ -22,13 +22,8 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Download Encore CLI script
-        uses: sozo-design/curl-action@v1
-        with:
-          args: --output install.sh -L https://encore.dev/install.sh
-
       - name: Install Encore CLI
-        run: bash install.sh
+        run: curl -L https://encore.dev/install.sh | bash
 
       - name: Build Docker image
         run: /home/runner/.encore/bin/encore build --config railway-infra.config.json docker myapp
