@@ -1,0 +1,14 @@
+{
+  "app": "myapp",
+  "service": {
+    "name": "myapp",
+    "docker": {
+      "build": "./Dockerfile"
+    }
+  },
+  "environment": {
+    "production": {
+      "region": "us-east"
+    }
+  }
+}
